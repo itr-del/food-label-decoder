@@ -147,5 +147,21 @@ Phase 3：横向对比 5 个硬指标
 - **`references/chemical-name-glossary.md`**——常用化学名还原词典，遇到不认识的成分先查这里
 - **`references/additive-watchlist.md`**——添加剂分级清单（必含/慎用/避用），快速判断风险等级
 - **`references/label-patterns.md`**——配料表话术套路（如"0 蔗糖"≠"0 糖"、"0 脂"可能糖爆炸），不被营销忽悠
+- **`references/compliance-guide.md`**——公开发布食品科普内容时的合规指南（红线 / 免责声明 / 拒答模板 / 权威来源）
+- **`references/xiaohongshu-content-plan.md`**——「配料表翻译官」小红书系列规划（12 篇成系列 + 节奏 + 变现路径）
 
 按需加载：解读具体产品时按场景查对应 reference，不需要一次性全部读入。
+
+---
+
+## 扩展场景：内容创作与发布
+
+如果用户要把配料表解读做成公开发布的内容（小红书 / 抖音 / 公众号），本 skill 提供完整合规框架：
+
+1. **定位与底线**：人设是科普者，不是维权者、不是食品斗士、不是营养师
+2. **红线清单**：见 `compliance-guide.md` 的"🔴 高风险红线"
+3. **方法论支撑**：化学名还原（Phase 2）+ 信号识别（Phase 3）+ 添加剂分级
+4. **成系列方案**：见 `xiaohongshu-content-plan.md` 的 12 篇规划（标题已合规预审）
+5. **每篇 SOP**：选主题 → 拉素材 → 写正文 → 预审合规 → 配图 → 免责声明 → AI 标识 → 评论区准备
+
+**核心立场**：发布前对照 `compliance-guide.md` 的 6 条硬规则自查——这是不可省略的一步。
