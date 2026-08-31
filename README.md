@@ -47,12 +47,16 @@ Step 3：找反式脂肪关键词 → "氢化""精炼植物油""代可可脂" �
 food-label-decoder/
 ├── README.md                       ← 本文件
 ├── LICENSE                         ← MIT 协议
-├── SKILL.md                        ← 主方法论（4 层框架 + 输出格式 + 工作流）
+├── SKILL.md                        ← 主方法论（4 层框架 + 输出格式 + 工作流 + 内容创作扩展）
 └── references/
     ├── chemical-name-glossary.md   ← 化学名还原词典（按功能分类）
     ├── additive-watchlist.md       ← 添加剂分级清单（🟢必含/🟡慎用/🔴避用）
-    └── label-patterns.md           ← 配料表话术套路（不被营销忽悠）
+    ├── label-patterns.md           ← 配料表话术套路（不被营销忽悠）
+    ├── compliance-guide.md         ← ⭐ 内容创作合规指南（红线 / 免责 / 拒答 / 权威源）
+    └── xiaohongshu-content-plan.md ← ⭐「配料表翻译官」小红书 12 篇系列规划
 ```
+
+> ⭐ = 面向内容创作者的扩展文档（公开发布食品科普前必读）
 
 ---
 
